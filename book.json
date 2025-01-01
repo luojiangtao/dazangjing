@@ -1,0 +1,17 @@
+{
+    "title": "大藏经",
+    "plugins": [
+        "baidu-tongji",
+        "video",
+        "assistant",
+        "bilibili"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "49597c9cad7caa63d7647d3fb1d52370"
+        },
+        "assistant": {
+            "siteId": "pmbkMvez"
+        }
+    }
+}
